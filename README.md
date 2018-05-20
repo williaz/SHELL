@@ -1,2 +1,4 @@
-# SHELL
-BASH, AWK
+- [x] Redhat version
+```
+cat /etc/redhat-release
+```
